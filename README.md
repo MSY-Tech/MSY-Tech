@@ -1,3 +1,2 @@
 - 👋 Hi,I am CEO of MSY Technologies 
 - 👀 We are interested in Tech industries
-- 🌱 I am a Data scientist
