@@ -1,2 +1,2 @@
 - 👋 Hi,I am CEO of MSY Technologies 
-- 👀 We are interested in Tech industries
+- 👀 We are interested in Data Science
